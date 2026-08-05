@@ -7,8 +7,63 @@ caption{
 td{
     border: 2px solid black;
     padding: 10px;
+    text-align: center;
 }
 #cabeçalho{
-    background-color: blue;
-    color: white;
+    background-color: rgb(74, 158, 238);
+    color: white
 }
+table{
+    width: 1500px;
+}
+.horario{
+    color: black;
+    text-align: center;
+}
+#intervalo{
+    font-size: 15px;
+    letter-spacing: 4px;
+    text-align: center;
+    background-color: darkgray;
+}
+#intervalo1{
+    font-size: 15px;
+    letter-spacing: 4px;
+    text-align: center;
+    background-color: darkgray;
+}
+    table{
+    border-collapse: collapse;
+}
+caption{
+    margin-bottom: 12px;
+}
+td{
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+}
+#cabeçalho{
+    background-color: rgb(74, 158, 238);
+    color: white
+}
+table{
+    width: 1500px;
+}
+.horario{
+    color: black;
+    text-align: center;
+}
+#intervalo{
+    font-size: 15px;
+    letter-spacing: 4px;
+    text-align: center;
+    background-color: darkgray;
+}
+#intervalo1{
+    font-size: 15px;
+    letter-spacing: 4px;
+    text-align: center;
+    background-color: darkgray;
+}
+    
